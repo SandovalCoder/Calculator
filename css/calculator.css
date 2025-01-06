@@ -1,0 +1,55 @@
+body {
+    background-color: #f4f4f4;
+}
+.card {
+    background-color: #ffffff;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+}
+.card-title {
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #333;
+}
+input.form-control {
+    background-color: #e9ecef;
+    border: none;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.btn {
+    height: 70px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.btn-operator {
+    background-color: #ff9f43;
+    color: white;
+}
+.btn-operator:hover {
+    background-color: #ff7e00;
+}
+.btn-number {
+    background-color: #6c757d;
+    color: white;
+}
+.btn-number:hover {
+    background-color: #5a6268;
+}
+.btn-action {
+    background-color: #dc3545;
+    color: white;
+}
+.btn-action:hover {
+    background-color: #b02a37;
+}
+.btn-equals {
+    background-color: #198754;
+    color: white;
+}
+.btn-equals:hover {
+    background-color: #146c43;
+}
