@@ -19,7 +19,7 @@ Este es un proyecto de calculadora simple creado con HTML, CSS y JavaScript. La 
 ## Cómo Usar
 
 1. Clona el repositorio o descarga los archivos fuente.
-2. Abre el archivo `index.html` en tu navegador web.
+2. Abre el archivo `calculator.html` en tu navegador web.
 3. Utiliza los botones de la calculadora para realizar operaciones.
 
 ### Ejemplo de Uso:
