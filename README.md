@@ -31,7 +31,7 @@ Este es un proyecto de calculadora simple creado con HTML, CSS y JavaScript. La 
 
 ## Estructura de Archivos
 
-- `index.html`: Archivo HTML principal que contiene la interfaz de la calculadora.
+- `calculator.html`: Archivo HTML principal que contiene la interfaz de la calculadora.
 - `css/calculator.css`: Archivo CSS opcional para estilos adicionales.
 - `README.md`: Documentación del proyecto.
 
