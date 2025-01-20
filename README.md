@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/344433e5-7583-41f3-b03a-094402ee3582)
+
 # Calculadora
 
 Este es un proyecto de calculadora simple creado con HTML, CSS y JavaScript. La interfaz está diseñada con Bootstrap 5, ofreciendo un diseño limpio y responsive.
